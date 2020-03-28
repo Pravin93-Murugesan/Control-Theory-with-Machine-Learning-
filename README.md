@@ -8,6 +8,6 @@
   - Neural Networks for Dynamical Systems
   
 ## Data-Driven Control
-  - Nonlinear System Identification for Control 346
-  - Machine Learning Control 352
+  - Nonlinear System Identification for Control
+  - Machine Learning Control
   - Adaptive Extremum-Seeking Control
