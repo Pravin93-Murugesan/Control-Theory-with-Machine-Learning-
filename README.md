@@ -1,4 +1,4 @@
-# Control Theory with Machine Learning
+# Data-Driven Science and Engineering
 
 ## Dimensionality Reduction and Transforms
   - Singular Value Decomposition (SVD)
