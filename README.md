@@ -7,7 +7,7 @@
 ## Machine Learning and Data Analysis
   - Neural Networks for Dynamical Systems
   
-## Data-Driven Control 345
+## Data-Driven Control
   - Nonlinear System Identification for Control 346
   - Machine Learning Control 352
   - Adaptive Extremum-Seeking Control
