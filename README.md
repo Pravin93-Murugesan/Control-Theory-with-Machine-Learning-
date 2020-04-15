@@ -1,7 +1,7 @@
 # Data-Driven Science and Engineering
 
 <p align="center">
-<img src="https://github.com/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/MNIST.png" width="300"> <img src="https://github.com/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/exIMG.png" width="200">
+<img src="https://github.com/Pravin93-Murugesan/Control-Theory-with-Machine-Learning-/blob/master/network_data.png" width="300"> <img src="https://github.com/Pravin93-Murugesan/Neural-Networks-Hobby-Projects-/blob/master/exIMG.png" width="200">
 </p>
 
 ## Dimensionality Reduction and Transforms
